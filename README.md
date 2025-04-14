@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RHnMb-7L)
-
-Que 1 HTML CODE 
+Que 1 HTML CODE
 
 <!DOCTYPE html>
 <html>
@@ -45,7 +43,7 @@ QUE 2  HTML CODE
 
 SERVLET CODE
 
-import java.io.*; import javax.servlet.*; import javax.servlet.http.*;
+import java.io.; import javax.servlet.; import javax.servlet.http.*;
 
 public class LoginServlet extends HttpServlet {
   protected void doPost(HttpServletRequest r, HttpServletResponse s) throws IOException {
